@@ -26,7 +26,7 @@ A calm box-opening game for the whole family. Open gift boxes with satisfying ge
 - **Comfort for small hands:** the game asks for an age range once and becomes more forgiving for younger players.
 - English and Turkish.
 
-The game is free and shows few ads from Google AdMob, never while opening boxes. Younger players get child-directed, non-personalized ads only.
+The game is free and shows few ads from Google AdMob, never while opening boxes. Younger players get child-directed, non-personalized ads only. A one-time "Remove ads" purchase (behind a grown-up gate) takes them away.
 
 ## Support
 
@@ -57,7 +57,7 @@ Bütün aileye uygun, sakin bir kutu açma oyunu. Hediye kutularını tatmin edi
 - **Küçük eller için rahatlık:** oyun bir kez yaş aralığını sorar ve küçük oyunculara karşı daha hoşgörülü olur.
 - Türkçe ve İngilizce.
 
-Oyun ücretsizdir ve Google AdMob'dan az sayıda reklam gösterir; kutu açarken asla. Küçük oyuncular yalnızca çocuklara yönelik, kişiselleştirilmemiş reklam görür.
+Oyun ücretsizdir ve Google AdMob'dan az sayıda reklam gösterir; kutu açarken asla. Küçük oyuncular yalnızca çocuklara yönelik, kişiselleştirilmemiş reklam görür. Tek seferlik "Reklamları kaldır" satın alması (ebeveyn kapısı arkasında) reklamları kaldırır.
 
 ### Destek
 
