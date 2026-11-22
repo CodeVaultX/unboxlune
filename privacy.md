@@ -4,7 +4,7 @@ title: Unboxlune — Privacy Policy
 
 # Unboxlune — Privacy Policy
 
-*Last updated: November 21, 2026*
+*Last updated: November 23, 2026*
 
 [Türkçe](#türkçe)
 
@@ -23,14 +23,14 @@ The game is made for families and is treated as **directed at children** unless 
 - ads are requested with Google's **child-directed treatment**, are never personalized and are limited to the "G" (general audiences) content rating;
 - there are no banner ads, no ads while opening boxes or in the tutorial, and no ads for the first two finished sets; a full-screen ad can appear only on the "set complete" screen, and not often;
 - restarting a set or changing the age range needs a grown-up gate question (a simple multiplication);
-- there is no chat, no social feature and no online play; the only ways out of the game are the link to this privacy policy and the optional one-time "Remove ads" purchase through Google Play, both behind the grown-up gate question;
+- there is no chat, no social feature and no online play; the only ways out of the game are the link to this privacy policy and the optional one-time "Remove ads" purchase through Google Play, both behind the grown-up gate question, and tapping a full-screen ad, which can open a browser or Google Play;
 - there is nothing to win by chance and no loot boxes: every friend, accessory and decoration is earned by playing, and the rules page says how. The only thing for sale is "Remove ads", and it is never random.
 
 ## Ads
 
 The game shows ads from **Google AdMob**. For advertising, analytics and fraud prevention, the Google Mobile Ads SDK in the game automatically collects and shares information with Google and its advertising partners, such as the IP address (which may be used to estimate your general location), how you use the game and its ads, diagnostic information, and device and app information. This information is encrypted in transit. Because the game requests child-directed treatment for younger players, Google does not use it to personalize ads for them.
 
-- Where the law requires it (for example in the European Economic Area, the UK and Switzerland), the game asks for consent before showing ads.
+- Ads are always requested as for users under the age of consent and without personalization, so the game does not show an ad consent form.
 - How Google uses information from apps that use its services: <https://policies.google.com/technologies/partner-sites>
 - Google Privacy Policy: <https://policies.google.com/privacy>
 
@@ -65,7 +65,7 @@ luneapps.support@gmail.com
 
 ## Türkçe
 
-*Son güncelleme: 21 Kasım 2026*
+*Son güncelleme: 23 Kasım 2026*
 
 Unboxlune, Android için bütün aileye uygun, sakin bir kutu açma oyunudur. Hesap ve sunucumuz yok; ad, e-posta ya da başka bir kişisel bilgi asla istemiyoruz. Telefondan çıkan tek veri, reklamlar ve isteğe bağlı "Reklamları kaldır" satın alması için Google'a gider.
 
@@ -82,14 +82,14 @@ Oyun ailelere yöneliktir; yaş aralığı 13 ve üstü değilse (ya da yaş hen
 - reklamlar Google'ın **çocuklara yönelik işlem** ayarıyla istenir, hiçbir zaman kişiselleştirilmez ve "G" (genel izleyici) içerik derecesiyle sınırlıdır;
 - banner reklam yoktur; kutu açarken ya da öğreticide reklam gösterilmez, ilk iki bitirilen sette reklam yoktur; tam ekran reklam yalnızca "set tamamlandı" ekranında ve seyrek çıkabilir;
 - bir seti baştan başlatmak ya da yaş aralığını değiştirmek bir ebeveyn kapısı sorusu (basit bir çarpma) gerektirir;
-- sohbet, sosyal özellik ve çevrimiçi oyun yoktur; oyundan dışarı çıkış yalnızca bu gizlilik politikasının bağlantısı ve Google Play'den isteğe bağlı tek seferlik "Reklamları kaldır" satın almasıdır, ikisi de ebeveyn kapısı sorusunun arkasındadır;
+- sohbet, sosyal özellik ve çevrimiçi oyun yoktur; oyundan dışarı çıkış yalnızca bu gizlilik politikasının bağlantısı ve Google Play'den isteğe bağlı tek seferlik "Reklamları kaldır" satın almasıdır, ikisi de ebeveyn kapısı sorusunun arkasındadır; bir de tam ekran reklama dokunmak tarayıcıyı ya da Google Play'i açabilir;
 - şansa bağlı kazanç ve şans kutusu yoktur: her arkadaş, aksesuar ve dekor oynayarak kazanılır; kurallar sayfası nasıl olduğunu anlatır. Satılan tek şey "Reklamları kaldır"dır ve hiçbir zaman rastgele değildir.
 
 ### Reklamlar
 
 Oyun **Google AdMob** reklamları gösterir. Oyundaki Google Mobile Ads SDK'sı reklam, analiz ve sahtekârlığı önleme amacıyla bazı bilgileri otomatik toplar ve Google ile reklam ortaklarıyla paylaşır: IP adresi (genel konumu kestirmek için kullanılabilir), oyunu ve reklamları nasıl kullandığın, tanılama bilgileri, cihaz ve uygulama bilgileri. Bu bilgiler aktarım sırasında şifrelidir. Oyun küçük oyuncular için çocuklara yönelik işlem istediğinden, Google bu bilgileri onlara reklam kişiselleştirmek için kullanmaz.
 
-- Yasanın gerektirdiği yerlerde (örneğin Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre) oyun reklam göstermeden önce izin sorar.
+- Reklamlar her zaman rıza yaşının altındaki kullanıcı ayarıyla ve kişiselleştirilmeden istenir; bu yüzden oyun bir reklam izin penceresi göstermez.
 - Google'ın bu hizmetleri kullanan uygulamalardan gelen bilgileri nasıl kullandığı: <https://policies.google.com/technologies/partner-sites>
 - Google Gizlilik Politikası: <https://policies.google.com/privacy>
 
