@@ -23,7 +23,7 @@ The game is made for families and is treated as **directed at children** unless 
 - ads are requested with Google's **child-directed treatment**, are never personalized and are limited to the "G" (general audiences) content rating;
 - there are no banner ads, no ads while opening boxes or in the tutorial, and no ads for the first two finished sets; a full-screen ad can appear only on the "set complete" screen, and not often;
 - restarting a set or changing the age range needs a grown-up gate question (a simple multiplication);
-- there is no chat, no social feature, no online play, no links out of the game and no purchases;
+- there is no chat, no social feature, no online play and no purchases; the only link out of the game is this privacy policy, and it sits behind the grown-up gate question;
 - there is nothing to win by chance and nothing that can be bought: every friend, accessory and decoration is earned by playing, and the rules page says how.
 
 ## Ads
@@ -77,7 +77,7 @@ Oyun ailelere yöneliktir; yaş aralığı 13 ve üstü değilse (ya da yaş hen
 - reklamlar Google'ın **çocuklara yönelik işlem** ayarıyla istenir, hiçbir zaman kişiselleştirilmez ve "G" (genel izleyici) içerik derecesiyle sınırlıdır;
 - banner reklam yoktur; kutu açarken ya da öğreticide reklam gösterilmez, ilk iki bitirilen sette reklam yoktur; tam ekran reklam yalnızca "set tamamlandı" ekranında ve seyrek çıkabilir;
 - bir seti baştan başlatmak ya da yaş aralığını değiştirmek bir ebeveyn kapısı sorusu (basit bir çarpma) gerektirir;
-- sohbet, sosyal özellik, çevrimiçi oyun, oyundan dışarı bağlantı ve satın alma yoktur;
+- sohbet, sosyal özellik, çevrimiçi oyun ve satın alma yoktur; oyundan dışarı tek bağlantı bu gizlilik politikasıdır ve ebeveyn kapısı sorusunun arkasındadır;
 - şansa bağlı kazanç ve satın alınabilen bir şey yoktur: her arkadaş, aksesuar ve dekor oynayarak kazanılır; kurallar sayfası nasıl olduğunu anlatır.
 
 ### Reklamlar
